@@ -39,4 +39,7 @@ can be used in basic authentication for authorization of the API and accessing i
 
 Swagger is also implemented where http://localhost:8080/swagger-ui/ URL is used for accessing the API's.
 
+
+![Screenshot from 2022-08-03 09-23-08](https://user-images.githubusercontent.com/59513691/182521307-01e89df0-afdf-4e53-9dd1-8477b9f4d284.png)
+
 Thank you.
