@@ -55,7 +55,7 @@ stocks.
 
 ## Deployment
 
-To deploy this project go to the target folder and open command prompt if in windows or terminal if using ubuntu and type the below command
+To deploy this project go to the target folder and open command prompt if in windows or terminal if using ubuntu and type the below command but first build the application
 
 ```bash
   java -jar dunder-mifflin-0.0.1-SNAPSHOT.jar
